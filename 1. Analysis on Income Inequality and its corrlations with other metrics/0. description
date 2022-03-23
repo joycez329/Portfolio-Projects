@@ -1,1 +1,19 @@
-This project
+Topic: Analysis on Income Inequality and its correlations with other metrics
+
+Description: 
+The dataset contains 1512 records from 189 countries in 2015 and 2019, with 5 variables that are GINI index, life expectancy, happiness level and fertility rate. The project includes the following steps: data loading, data cleaning and preprocessing, exploratory data analysis, analyzing continent based on GINI index, measuring statistical factors, regression, predicting gini index and life expectancy by using machine learning method (Logistic Regression).
+
+Skills:
+data cleaning, data analysis, descriptive statistics, regression, machine learning, data visualization.
+
+Technology:
+MySQL, Python, Pandas, Numpy, Statsmodels, Seaborn, Matplotlib, Scikit-Learn
+
+Results:
+Reviewed of the global GINI index and predicted it.
+
+
+Presentation link:
+https://docs.google.com/presentation/d/1VLqr9pd7qtS8devq0l1ZksotBZ_563_fCW4s-fkzFw0/edit
+
+Note: This is a two-people learning project with self-selected topic at Hyper Island (DA23), I did it with my classmate Abraham Setiawan.
