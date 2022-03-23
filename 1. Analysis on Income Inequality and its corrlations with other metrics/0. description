@@ -1,7 +1,11 @@
 Topic: Analysis on Income Inequality and its correlations with other metrics
 
 Description: 
-The dataset contains 1512 records from 189 countries in 2015 and 2019, with 5 variables that are GINI index, life expectancy, happiness level and fertility rate. The project includes the following steps: data loading, data cleaning and preprocessing, exploratory data analysis, analyzing continent based on GINI index, measuring statistical factors, regression, predicting gini index and life expectancy by using machine learning method (Logistic Regression).
+The dataset contains 1512 records from 189 countries in 2015 and 2019, with 5 variables that are GINI index, 
+life expectancy, happiness level and fertility rate. The project includes the following steps: 
+data loading, data cleaning and preprocessing, exploratory data analysis, 
+analyzing continent based on GINI index, measuring statistical factors, regression, 
+predicting gini index and life expectancy by using machine learning method (Logistic Regression).
 
 Skills:
 data cleaning, data analysis, descriptive statistics, regression, machine learning, data visualization.
